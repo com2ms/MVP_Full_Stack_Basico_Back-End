@@ -23,7 +23,7 @@ Clone o repositório ou faça o download do mesmo. Extraia os arquivos do arquiv
                        ├── README.md           # Documentação do projeto
                        ├── app.py              # Servidor Flask
                        ├── requirements.txt    # Lista de dependências e bibliotecas
-                       ├── models/             # Modelos do banco de dados
+                       ├── model/              # Modelos do banco de dados
                        └── schemas/            # Schemas Pydantic
 ```
 
